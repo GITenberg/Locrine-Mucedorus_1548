@@ -1,0 +1,26 @@
+_repo: Locrine-Mucedorus_1548
+creator:
+  author:
+    agent_name: Shakespeare (spurious and doubtful works)
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '654'
+    url: http://www.gutenberg.org/2009/agents/654
+description: Apocrypha
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1548'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Britons -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+tableOfContents: The Lamentable Tragedy of Locrine -- A Most Pleasant Comedy of Mucedorus
+  the King's Son of Valentia, and Amadine, the King's Daughter of Arragon.
+title: Locrine; Mucedorus
+url: http://www.gutenberg.org/ebooks/1548
