@@ -1,5 +1,5 @@
 _repo: Locrine-Mucedorus_1548
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Britons -- Drama'
 - !lcsh 'Tragedies'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: The Lamentable Tragedy of Locrine -- A Most Pleasant Comedy of Mucedorus
   the King's Son of Valentia, and Amadine, the King's Daughter of Arragon.
 title: Locrine; Mucedorus
